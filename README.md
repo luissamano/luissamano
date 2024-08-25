@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Elixir, Cloud, etc**
 
-<h3 align="left">Connect with me:</h3>
+<div style="box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);">
+<img src="./logo.png" alt="logo" class=" rounded-t-lg" style="background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);"  />
+ </div>
 <p align="left">
 </p>
 

@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luissamano&label=Profile%20views&color=0e75b6&style=flat" alt="luissamano" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luissamano" alt="luissamano" /></a> </p>
-
-- 🔭 I’m currently working on **@Resuelve**
+- 🔭 I’m currently working on **Resuelve**
 
 - 🌱 I’m currently learning **Elixir, Cloud, etc**
 
@@ -19,6 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luissamano&show_icons=true&locale=en&layout=compact" alt="luissamano" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luissamano&show_icons=true&locale=en" alt="luissamano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luissamano&" alt="luissamano" /></p>
-

@@ -7,14 +7,17 @@ I'm a passionate software developer from Mexico who loves working with Elixir an
 
 ---
 <h2 align="center">🔧 Tech Stack</h2>
-<h3 align="center">🖥️ Programming Languages</h3> 
+
+<h3 align="center">🖥️ Programming Languages & Frameworks</h3> 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
 </p>
-
 
 <h3 align="center">🗄️ Databases</h3> 
 <p align="center">
@@ -30,7 +33,7 @@ I'm a passionate software developer from Mexico who loves working with Elixir an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
-<h3 align="center">📡 Big Data & Messaging</h3> 
+<h3 align="center">📡 Big Data & Analytics</h3> 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="100" height="50"/>
